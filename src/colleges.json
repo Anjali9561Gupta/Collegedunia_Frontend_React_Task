@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Massachusetts Institute of Technology",
+    "cdRank": 1,
+   
+    "courseFees": 50000,
+    "placement": "95%",
+    "userReviews": 4.8,
+    "ranking": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Stanford University",
+    "cdRank": 2,
+    
+    "courseFees": 55000,
+    "placement": "92%",
+    "userReviews": 4.7,
+    "ranking": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Harvard University",
+    "cdRank": 3,
+   
+    "courseFees": 52000,
+    "placement": "90%",
+    "userReviews": 4.6,
+    "ranking": 4.7
+  },
+  {
+    "id": 4,
+    "name": "California Institute of Technology",
+    "cdRank": 4,
+   
+    "courseFees": 54000,
+    "placement": "94%",
+    "userReviews": 4.5,
+    "ranking": 4.8
+  },
+  {
+    "id": 5,
+    "name": "University of Oxford",
+    "cdRank": 5,
+   
+    "courseFees": 48000,
+    "placement": "88%",
+    "userReviews": 4.4,
+    "ranking": 4.6
+  },
+  {
+    "id": 6,
+    "name": "University of Cambridge",
+    "cdRank": 6,
+    
+    "courseFees": 49000,
+    "placement": "91%",
+    "userReviews": 4.3,
+    "ranking": 4.7
+  },
+  {
+    "id": 7,
+    "name": "ETH Zurich - Swiss Federal Institute of Technology",
+    "cdRank": 7,
+   
+    "courseFees": 56000,
+    "placement": "93%",
+    "userReviews": 4.2,
+    "ranking": 4.5
+  },
+  {
+    "id": 8,
+    "name": "University College London",
+    "cdRank": 8,
+    
+    "courseFees": 51000,
+    "placement": "89%",
+    "userReviews": 4.1,
+    "ranking": 4.6
+  },
+  {
+    "id": 9,
+    "name": "University of Chicago",
+    "cdRank": 9,
+    
+    "courseFees": 53000,
+    "placement": "87%",
+    "userReviews": 4.0,
+    "ranking": 4.4
+  },
+  {
+    "id": 10,
+    "name": "Princeton University",
+    "cdRank": 10,
+    
+    "courseFees": 57000,
+    "placement": "85%",
+    "userReviews": 3.9,
+    "ranking": 4.3
+  }
+]
