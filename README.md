@@ -1,5 +1,5 @@
 <h1>Frontend React Test by Collegedunia Web Pvt. Ltd</h1>
-<p>. Create a table layout application and that have the following features.</p>
+<p>Create a table layout application and that have the following features.</p>
 
 <p>Initially, 10 rows will be shown in the table. You have to implement infinite scroll functionality.
 You have to add rows into the same table. Show featured flag if any college has truthy featured
